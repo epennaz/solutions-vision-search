@@ -1,8 +1,8 @@
 {
   "categories": {
-      "0": ["transport", "vehicle", "road", "traffic"],
-      "1": ["nature", "desert", "ocean", "mountain"],
-      "2": ["city", "building", "bridge", "tower"],
-      "3": ["animal", "creature", "species", "pet"]
+      "0": ["human", "overalls", "face", "arms"],
+      "1": ["fish", "albacore", "bigeye tuna", "black marlin"],
+      "2": ["boat", "jigging", "trawl", "fishing"],
+      "3": ["ocean", "waves", "clouds", "sky"]
   }
 }
